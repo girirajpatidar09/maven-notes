@@ -4,7 +4,7 @@ A complete collection of **Apache Maven** notes for Java developers covering con
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 - Introduction to Maven
 - Maven Architecture
@@ -23,7 +23,7 @@ A complete collection of **Apache Maven** notes for Java developers covering con
 
 ---
 
-## 🎯 Purpose of This Repository
+##  Purpose of This Repository
 
 This repository is created for:
 
