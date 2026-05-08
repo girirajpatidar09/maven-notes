@@ -73,4 +73,7 @@ There are three types of repositories:
 
 3. Local Repository (.m2 directory): This is your personal local repository on your machine. When Maven downloads dependencies, they are cached here to
    avoid downloading them repeatedly. The default location for this local repository is typically ~/.m2/repository.
+   
+```
+---
 
